@@ -2,7 +2,7 @@
 
 Le cours utilise le solveur Microsoft Excel. 
 
-De notre cote pour aller plus loin nous utiliserons aussi Python3 et la librarie PuLP. PuLP a l'avantage d'avoir une syntaxe semblable a ce que l'on voit dans le cours.
+De notre cote pour aller plus loin nous utiliserons aussi Python3 et la librarie PuLP. PuLP a l'avantage d'avoir une syntaxe semblable a ce que l'on voit dans le cours (versus scipy par exemple qui a une autre logique).
 
 ```
 conda update conda -y
