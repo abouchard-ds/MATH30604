@@ -24,12 +24,12 @@ conda install -c conda-forge pulp  -y
 | La gestion de projet | [Wikipedia](https://en.wikipedia.org/wiki/Critical_path_method) | Critical path |
 | La gestion de projet | [Wikipedia](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique) | PERT |
 
-Evans, James Robert (2013)	. Business analytics : methods, models, and decisions , 1st ed. ed. , Pearson
+Evans, James Robert (2013)	. **Business analytics : methods, models, and decisions** , 1st ed. ed. , Pearson
 ISBN: 9780132950619 
 
-Nobert, Yves & Ouellet, Roch & Parent, Régis (2015) . Méthodes d'optimisation pour la gestion , Montréal , Chenelière éducation x, 298 p. p.
+Nobert, Yves & Ouellet, Roch & Parent, Régis (2015) . **Méthodes d'optimisation pour la gestion** , Montréal , Chenelière éducation x, 298 p. p.
 ISBN: 9782765051664
 (http://web.hec.ca/pages/roch.ouellet/manuels/MOG/Index.htm)
 
-Taha, Hamdy A. (2011)	. Operations research : an introduction	, 9th ed. ed. , Prentice Hall,
+Taha, Hamdy A. (2011)	. **Operations research : an introduction**	, 9th ed. ed. , Prentice Hall,
 ISBN: 9780132555937 
