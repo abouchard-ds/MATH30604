@@ -1,4 +1,4 @@
-# MATH30604.H2021 - Modèles d'optimisation et de recherche opérationnelle
+# MATH30604 - Modèles d'optimisation et de recherche opérationnelle
 
 ## La programmation linéaire (PL)
 https://en.wikipedia.org/wiki/Linear_programming
