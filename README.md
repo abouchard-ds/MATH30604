@@ -1,5 +1,9 @@
 # MATH30604 - Modèles d'optimisation et de recherche opérationnelle
 
+Le cours utilise le solveur Microsoft Excel. 
+
+De notre cote pour aller plus loin nous utiliserons aussi Python3 et la librarie PuLP.
+
 ## La programmation linéaire (PL)
 https://en.wikipedia.org/wiki/Linear_programming
 
