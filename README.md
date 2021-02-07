@@ -2,7 +2,14 @@
 
 Le cours utilise le solveur Microsoft Excel. 
 
-De notre cote pour aller plus loin nous utiliserons aussi Python3 et la librarie PuLP.
+De notre cote pour aller plus loin nous utiliserons aussi Python3 et la librarie PuLP. PuLP a l'avantage d'avoir une syntaxe semblable a ce que l'on voit dans le cours.
+
+```
+conda update conda -y
+conda update --all -y
+conda install -c conda-forge pulp  -y
+```
+
 
 ## La programmation linéaire (PL)
 https://en.wikipedia.org/wiki/Linear_programming
